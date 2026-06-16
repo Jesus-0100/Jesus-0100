@@ -35,14 +35,16 @@ No me gustan los desarrollos genéricos. Si tiene que cargar rápido, estructuro
 
 - 🌐 [**Proyecto de Landing Page 1**](https://abba-est-tica-avanzada.vercel.app/) - Arquitectura optimizada para alta conversión.
 - 🌐 [**Proyecto de Landing Page 2**](https://odontologia-beta-five.vercel.app/) - Interfaz responsiva y veloz estructurada con Vite.
-
-<br>
+- 
 ### 📬 ¿Quieres trabajar conmigo?
 Si tienes un proyecto en mente o buscas un perfil técnico para tu equipo, hablemos. 
 
-- 📧 **Correo:** [tucorreo@ejemplo.com](mailto:alejandrocastaneda.ing@gmail.com) (haz clic aquí para escribirme directo)
-- 📱 **WhatsApp:** [+57 314 285 77350](https://wa.me/573142857735) (haz clic para chatear)
+- 📧 **Correo:** [alejandrocastaneda.ing@gmail.com](mailto:alejandrocastaneda.ing@gmail.com) (haz clic aquí para escribirme directo)
+- 📱 **WhatsApp:** [+57 314 285 7735](https://wa.me/573142857735) (haz clic para chatear)
 - 📍 **Ubicación:** Bogotá, Colombia (disponible para proyectos remotos)
+
+
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/alejandro-castañeda010101">
