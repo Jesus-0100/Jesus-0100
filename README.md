@@ -39,7 +39,7 @@ No me gustan los desarrollos genéricos. Si tiene que cargar rápido, estructuro
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario-aqui">
+  <a href="https://www.linkedin.com/in/alejandro-castañeda010101">
     <img src="https://img.shields.io/badge/Conecta_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
