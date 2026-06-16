@@ -27,7 +27,7 @@ No me gustan los desarrollos genéricos. Si tiene que cargar rápido, estructuro
 
 ### 📊 Mis Estadísticas en GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jesus-0100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jesus-0100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
 </div>
 
 ### 🚀 Proyectos Destacados (Live)
