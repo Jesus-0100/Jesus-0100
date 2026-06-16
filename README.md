@@ -1,43 +1,45 @@
-# ¡Hola! Soy Alejandro (Jesús) Castañeda 👋
-
-Filtrando el mundo físico con ingeniería electrónica y construyendo soluciones digitales modernas para la web. 
-
----
-
-## 🚀 Sobre Mí
-
-- 🎓 **Educación:** Estudiante de 6to semestre de Ingeniería Electrónica en la Universidad Santo Tomás (Bogotá).
-- 💼 **Agencia:** Fundador y Desarrollador Web en **Iconic Web Studio (IWS)**.
-- ⚡ **Enfoque:** Creación de interfaces web de alto rendimiento, optimización de código y desarrollo de landing pages de alta conversión.
+<div align="center">
+  <!-- Título animado que parece código escribiéndose solo -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+Jesús;Electronic+Engineering+Student;Web+Developer+%40+Iconic+Web+Studio;React+%7C+Tailwind+%7C+TypeScript" alt="Typing SVG" />
+  </a>
+  <br>
+  <p><i>Filtrando el mundo físico con electrónica y escalando negocios con código moderno.</i></p>
+</div>
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+### 👨‍💻 Un poco sobre mí
+Soy estudiante de sexto semestre de Ingeniería Electrónica en la Santoto y la mente técnica detrás de **Iconic Web Studio (IWS)**. Me muevo cómodamente entre el diseño de circuitos, cálculos en Matlab y la maquetación de interfaces web de alto rendimiento. 
 
-### 💻 Web Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+No me gustan los desarrollos genéricos. Si tiene que cargar rápido, estructuro con Vite; si tiene que verse impecable, diseño con Tailwind.
 
-### 🔬 Engineering & Hardware
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![MATLAB](https://img.shields.io/badge/matlab-%23ED1C24.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+### 🛠️ Mi Stack Técnico
+<div align="center">
+  <h4>Desarrollo Web & UI</h4>
+  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,js,html,css" />
+  <br><br>
+  <h4>Ingeniería & Herramientas</h4>
+  <img src="https://skillicons.dev/icons?i=c,cpp,matlab,ubuntu,github,vscode" />
+</div>
 
----
+<br>
 
-## 📁 Portafolio de Proyectos (Despliegues en Vivo)
+### 📊 Mis Estadísticas en GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jesus-0100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</div>
 
-Aquí puedes ver algunas de las plataformas e interfaces en las que he trabajado para **Iconic Web Studio** (el código fuente se encuentra en repositorios privados por derechos comerciales):
+### 🚀 Proyectos Destacados (Live)
+> *El código de la agencia es privado, pero el rendimiento de las páginas es público.*
 
-- 🌐 [**Proyecto de Landing Page 1**](https://tu-link-de-vercel-aqui.vercel.app) – Landing page corporativa optimizada con React y Tailwind CSS.
-- 🌐 [**Proyecto de Landing Page 2**](https://tu-link-de-vercel-aqui.vercel.app) – Interfaz responsiva moderna estructurada con Vite y TypeScript.
+- 🌐 [**Proyecto de Landing Page 1**](https://tu-link-de-vercel-aqui.vercel.app) - Arquitectura optimizada para alta conversión.
+- 🌐 [**Proyecto de Landing Page 2**](https://tu-link-de-vercel-aqui.vercel.app) - Interfaz responsiva y veloz estructurada con Vite.
 
----
+<br>
 
-## 📬 Conéctate Conmigo
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario-aqui)
+<div align="center">
+  <a href="https://www.linkedin.com/in/tu-usuario-aqui">
+    <img src="https://img.shields.io/badge/Conecta_en_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
