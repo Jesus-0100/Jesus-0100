@@ -9,12 +9,12 @@
 
 ---
 
-### 👨‍💻 Un poco sobre mí
+###  Un poco sobre mí
 Soy estudiante de sexto semestre de Ingeniería Electrónica en la Santoto y la mente técnica detrás de **Iconic Web Studio (IWS)**. Me muevo cómodamente entre el diseño de circuitos, cálculos en Matlab y la maquetación de interfaces web de alto rendimiento. 
 
 No me gustan los desarrollos genéricos. Si tiene que cargar rápido, estructuro con Vite; si tiene que verse impecable, diseño con Tailwind.
 
-### 🛠️ Mi Stack Técnico
+###  Mi Stack Técnico
 <div align="center">
   <h4>Desarrollo Web & UI</h4>
   <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,js,html,css" />
@@ -25,7 +25,7 @@ No me gustan los desarrollos genéricos. Si tiene que cargar rápido, estructuro
 
 <br>
 
-### 📊 Mis Estadísticas en GitHub
+### Mis Estadísticas en GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jesus-0100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
 </div>
@@ -33,8 +33,8 @@ No me gustan los desarrollos genéricos. Si tiene que cargar rápido, estructuro
 ### 🚀 Proyectos Destacados (Live)
 > *El código de la agencia es privado, pero el rendimiento de las páginas es público.*
 
-- 🌐 [**Proyecto de Landing Page 1**](https://tu-link-de-vercel-aqui.vercel.app) - Arquitectura optimizada para alta conversión.
-- 🌐 [**Proyecto de Landing Page 2**](https://tu-link-de-vercel-aqui.vercel.app) - Interfaz responsiva y veloz estructurada con Vite.
+- 🌐 [**Proyecto de Landing Page 1**](https://abba-est-tica-avanzada.vercel.app/) - Arquitectura optimizada para alta conversión.
+- 🌐 [**Proyecto de Landing Page 2**](https://odontologia-beta-five.vercel.app/) - Interfaz responsiva y veloz estructurada con Vite.
 
 <br>
 
