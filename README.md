@@ -9,12 +9,12 @@
 
 ---
 
-### 👨‍💻 A bit about me
+### A bit about me
 I'm a 6th-semester Electronic Engineering student and the technical mind behind **Iconic Web Studio (IWS)**. I comfortably navigate between circuit design, MATLAB calculations, and crafting high-performance web interfaces. 
 
 I don't settle for generic builds. If it needs to load blazing fast, I structure it with **Vite**; if it needs to look flawless, I design it with **Tailwind CSS**. 
 
-### 🛠️ My Tech Stack
+### My Tech Stack
 <div align="center">
   <h4>Web Development & UI</h4>
   <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,js,html,css" />
@@ -25,12 +25,12 @@ I don't settle for generic builds. If it needs to load blazing fast, I structure
 
 <br>
 
-### 📊 GitHub Stats
+### GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jesus-0100&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats" />
 </div>
 
-### 🚀 Featured Projects (Live)
+### Featured Projects (Live)
 > *The agency's core code is private, but our page performance speaks for itself.*
 
 - 🌐 [**High-Conversion Landing Page**](https://abba-est-tica-avanzada.vercel.app/) - Architecture optimized for maximum user conversion.
@@ -38,7 +38,7 @@ I don't settle for generic builds. If it needs to load blazing fast, I structure
 
 ---
 
-### 📬 Let's Work Together
+###  Let's Work Together
 Whether you have a specific project in mind, need a sharp technical profile for your team, or are looking for a reliable freelancer, let's connect. <br>
 📍 *Based in Bogotá, Colombia — Available for remote work worldwide.*
 
